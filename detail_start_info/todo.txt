@@ -1,0 +1,5 @@
+Show civilian factories
+Show military factories
+Show naval dockyards
+Look into naval equipment seizing
+Research faster if somebody in faction has already researched it
